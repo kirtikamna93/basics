@@ -34,5 +34,8 @@ the braces is called a block.
 11.why the sentence after printf command has to be put in ""?
 
 12.why \n is used?
+ans.\n Newline. Position the cursor at the beginning of the next line.
 
 13.why is ; used ?
+ans. semicolon (;), is called a statement.
+Every statement must end with a semicolon (also known as the statement terminator)
