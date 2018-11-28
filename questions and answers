@@ -1,13 +1,19 @@
-what is #?
-why do we use include?
-why do we use <>?
-what is stdio?
-what is .h?
-what is int main?
-why do we use <> in stdio.h and () in void?
-what does void means in the program,why is it used?
-why {} is used for commands?
-how to know which brackets to use?
-why the sentence after printf command has to be put in ""?
-why \n is used?
-why is ; used ?
+1.what is #?
+ans: Lines beginning with # are processed by the preprocessor
+before compilation.
+2.why do we use include?
+ans. It tells the preprocessor to include the contents of the standard
+input/output header (<stdio.h>) in the program. This header contains information
+used by the compiler when compiling calls to standard input/output library functions such
+as printf.
+3.why do we use <>?
+4.what is stdio?
+5.what is .h?
+6.what is int main?
+7.why do we use <> in stdio.h and () in void?
+8.what does void means in the program,why is it used?
+9.why {} is used for commands?
+10.how to know which brackets to use?
+11.why the sentence after printf command has to be put in ""?
+12.why \n is used?
+13.why is ; used ?
