@@ -12,6 +12,8 @@ ans. Standard input output
 5.what is .h?
 and. .h is used with stdio to include the header file of standard input output.
 6.what is int main?
+ans.Every program in C begins executing at the function main. Int to the left of main indicates that main “returns” an
+integer (whole-number) value.
 7.why do we use <> in stdio.h and () in void?
 8.what does void means in the program,why is it used?
 9.why {} is used for commands?
