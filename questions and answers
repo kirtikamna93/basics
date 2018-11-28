@@ -8,7 +8,9 @@ used by the compiler when compiling calls to standard input/output library funct
 as printf.
 3.why do we use <>?
 4.what is stdio?
+ans. Standard input output
 5.what is .h?
+and. .h is used with stdio to include the header file of standard input output.
 6.what is int main?
 7.why do we use <> in stdio.h and () in void?
 8.what does void means in the program,why is it used?
