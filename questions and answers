@@ -1,23 +1,38 @@
 1.what is #?
 ans: Lines beginning with # are processed by the preprocessor
 before compilation.
+
 2.why do we use include?
 ans. It tells the preprocessor to include the contents of the standard
 input/output header (<stdio.h>) in the program. This header contains information
 used by the compiler when compiling calls to standard input/output library functions such
 as printf.
+
 3.why do we use <>?
+
 4.what is stdio?
 ans. Standard input output
+
 5.what is .h?
 and. .h is used with stdio to include the header file of standard input output.
+
 6.what is int main?
 ans.Every program in C begins executing at the function main. Int to the left of main indicates that main “returns” an
 integer (whole-number) value.
+
 7.why do we use <> in stdio.h and () in void?
+
 8.what does void means in the program,why is it used?
+
 9.why {} is used for commands?
+ans. A left brace, {, begins the body of every function. A corresponding right brace
+ends each function (line 9). This pair of braces and the portion of the program between
+the braces is called a block. 
+
 10.how to know which brackets to use?
+
 11.why the sentence after printf command has to be put in ""?
+
 12.why \n is used?
+
 13.why is ; used ?
